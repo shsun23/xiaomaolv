@@ -1,7 +1,0 @@
-com\xiaomaolv\pojo\course.class
-com\xiaomaolv\pojo\user.class
-com\xiaomaolv\controller\userController.class
-com\xiaomaolv\dao\userDao.class
-com\xiaomaolv\service\Impl\userServiceImpl.class
-com\xiaomaolv\service\userService.class
-com\xiaomaolv\XiaomaolvApplication.class
