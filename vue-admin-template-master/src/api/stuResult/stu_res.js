@@ -8,7 +8,6 @@ export default {
     return request({
       url: '/sturesult/question',
       method: 'get',
-
     })
   },
 
@@ -19,11 +18,12 @@ export default {
       url: '/sturesult/brief',
       // url: '/sturesult/brief',
       method: 'post',
-      params: {
+      data:{
         "ans": ans
       },
       // headers: {
       //   'Content-Type': 'multipart/form-data'
+      //   // 'Content-Type':application/x-www-form-urlencoded
       // }
 
     })
